@@ -1,1 +1,1 @@
-worker: python tutorialbo2t.py
+worker: python app.py
